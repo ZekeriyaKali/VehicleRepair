@@ -112,19 +112,9 @@ git clone <repository-url>
 cd VehicleRepairMVC
 ```
 
-Update the database connection in `appsettings.json`:
-
-```
-
-Run the project:
-
-```
-dotnet restore
-dotnet run
-```
-
 ---
 
 ## Notes
 
 This project demonstrates practical implementation of MVC architecture, database management, and workflow-driven application design. It is suitable for showcasing backend and full-stack development skills in professional environments.
+---
